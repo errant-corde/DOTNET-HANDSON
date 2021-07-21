@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\C#\tm3\bin\Debug\tm3.exe.config
+C:\Users\acer\Desktop\C#\tm3\bin\Debug\tm3.exe
+C:\Users\acer\Desktop\C#\tm3\bin\Debug\tm3.pdb
+C:\Users\acer\Desktop\C#\tm3\obj\Debug\tm3.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#\tm3\obj\Debug\tm3.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\tm3\obj\Debug\tm3.exe
+C:\Users\acer\Desktop\C#\tm3\obj\Debug\tm3.pdb

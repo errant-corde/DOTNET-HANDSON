@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\C#\tm2\bin\Debug\tm2.exe.config
+C:\Users\acer\Desktop\C#\tm2\bin\Debug\tm2.exe
+C:\Users\acer\Desktop\C#\tm2\bin\Debug\tm2.pdb
+C:\Users\acer\Desktop\C#\tm2\obj\Debug\tm2.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#\tm2\obj\Debug\tm2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\tm2\obj\Debug\tm2.exe
+C:\Users\acer\Desktop\C#\tm2\obj\Debug\tm2.pdb

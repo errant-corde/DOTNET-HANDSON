@@ -1,0 +1,7 @@
+C:\Users\acer\Desktop\C#\tm4\bin\Debug\tm4.exe.config
+C:\Users\acer\Desktop\C#\tm4\bin\Debug\tm4.exe
+C:\Users\acer\Desktop\C#\tm4\bin\Debug\tm4.pdb
+C:\Users\acer\Desktop\C#\tm4\obj\Debug\tm4.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\C#\tm4\obj\Debug\tm4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\tm4\obj\Debug\tm4.exe
+C:\Users\acer\Desktop\C#\tm4\obj\Debug\tm4.pdb
